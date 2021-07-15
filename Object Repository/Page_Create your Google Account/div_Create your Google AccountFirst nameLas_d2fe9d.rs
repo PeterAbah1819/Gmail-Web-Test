@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create your Google AccountFirst nameLas_d2fe9d</name>
+   <tag></tag>
+   <elementGuidId>a0dea95f-1ec8-409d-bcd1-6c74a6853402</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.H2SoFe.LZgQXe.RELBvb.TFhTPc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H2SoFe LZgQXe RELBvb TFhTPc</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-continent</name>
+      <type>Main</type>
+      <value>Western Africa</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-session-region</name>
+      <type>Main</type>
+      <value>NG</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create your Google AccountFirst nameLast nameUsername@gmail.comYou can use letters, numbers &amp; periodsUse my current email address insteadPasswordConfirmUse 8 or more characters with a mix of letters, numbers &amp; symbolsShow passwordNextSign in insteadOne account. All of Google working for you.‪Afrikaans‬‪azərbaycan‬‪bosanski‬‪català‬‪Čeština‬‪Dansk‬‪Deutsch‬‪eesti‬‪English (United Kingdom)‬‪English (United States)‬‪Español (España)‬‪Español (Latinoamérica)‬‪Filipino‬‪Français (Canada)‬‪Français (France)‬‪galego‬‪Hrvatski‬‪Indonesia‬‪isiZulu‬‪íslenska‬‪Italiano‬‪Kiswahili‬‪latviešu‬‪lietuvių‬‪magyar‬‪Melayu‬‪Nederlands‬‪norsk‬‪polski‬‪Português (Brasil)‬‪Português (Portugal)‬‪română‬‪Slovenčina‬‪slovenščina‬‪srpski (latinica)‬‪Suomi‬‪Svenska‬‪Tiếng Việt‬‪Türkçe‬‪Ελληνικά‬‪български‬‪македонски‬‪монгол‬‪Русский‬‪српски (ћирилица)‬‪Українська‬‪ქართული‬‪հայերեն‬‫עברית‬‎‫اردو‬‎‫العربية‬‎‫فارسی‬‎‪नेपाली‬‪मराठी‬‪हिन्दी‬‪বাংলা‬‪ਪੰਜਾਬੀ‬‪ગુજરાતી‬‪தமிழ்‬‪తెలుగు‬‪ಕನ್ನಡ‬‪മലയാളം‬‪සිංහල‬‪ไทย‬‪ລາວ‬‪မြန်မာ‬‪ខ្មែរ‬‪한국어‬‪中文（香港）‬‪日本語‬‪简体中文‬‪繁體中文‬HelpPrivacyTerms</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/div[@class=&quot;H2SoFe LZgQXe RELBvb TFhTPc&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+   </webElementXpaths>
+</WebElementEntity>
