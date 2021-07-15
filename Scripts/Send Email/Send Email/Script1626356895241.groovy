@@ -28,3 +28,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Sign in  Google accounts/in
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in  Google accounts/span_Next'))
 
+WebUI.delay(3)
+
